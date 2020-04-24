@@ -42,12 +42,12 @@ p {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 22px 14px;
+  padding: 22px 20px;
   text-decoration: none;
   font-size: 16px;
 }
 
-.navbar a:hover,b:hover {
+.navbar a:hover {
   background: #ffffff9c;
   color: #145cbf;
 }
@@ -56,11 +56,11 @@ p {
   float: left;
   display: block;
   text-align: center;
-  padding: 22px 14px;
+  padding: 22px 20px;
   text-decoration: none;
   font-size: 16px;
-  color: black;
-  background: black;
+  color: #cccccc;
+  background: #222222;
 }
 
 .navbar img {
