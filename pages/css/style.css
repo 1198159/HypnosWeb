@@ -54,6 +54,7 @@ p {
 
 .navbar a.active {
   color: black;
+  background: black;
 }
 
 .navbar img {
