@@ -42,7 +42,7 @@ p {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 22px 20px;
+  padding: 22px 14px;
   text-decoration: none;
   font-size: 16px;
 }
@@ -56,11 +56,11 @@ p {
   float: left;
   display: block;
   text-align: center;
-  padding: 22px 20px;
+  padding: 22px 14px;
   text-decoration: none;
   font-size: 16px;
   color: #cccccc;
-  background: #222222;
+  background: #292929;
 }
 
 .navbar img {
