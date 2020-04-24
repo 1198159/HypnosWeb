@@ -47,12 +47,12 @@ p {
   font-size: 16px;
 }
 
-.navbar a:hover {
+.navbar a:hover,b:hover {
   background: #ffffff9c;
   color: #145cbf;
 }
 
-.navbar a.active {
+.navbar b {
   color: black;
   background: black;
 }
